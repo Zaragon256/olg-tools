@@ -1,0 +1,461 @@
+[
+    {
+      "Day": "Friday",
+      "Name": "10 March 2023",
+      "DayNumber": 10,
+      "Month": "March",
+      "Year": 2023,
+      "Numbers": [18, 19, 31, 36, 38, 41, 43],
+      "Bonus": 8
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "14 March 2023",
+      "DayNumber": 14,
+      "Month": "March",
+      "Year": 2023,
+      "Numbers": [4, 15, 17, 24, 27, 32, 41],
+      "Bonus": 36
+    },
+    {
+      "Day": "Friday",
+      "Name": "17 March 2023",
+      "DayNumber": 17,
+      "Month": "March",
+      "Year": 2023,
+      "Numbers": [5, 15, 17, 22, 25, 37, 46],
+      "Bonus": 13
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "21 March 2023",
+      "DayNumber": 21,
+      "Month": "March",
+      "Year": 2023,
+      "Numbers": [7, 15, 17, 20, 32, 40, 50],
+      "Bonus": 21
+    },
+    {
+      "Day": "Friday",
+      "Name": "24 March 2023",
+      "DayNumber": 24,
+      "Month": "March",
+      "Year": 2023,
+      "Numbers": [5, 9, 14, 23, 32, 33, 46],
+      "Bonus": 26
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "28 March 2023",
+      "DayNumber": 28,
+      "Month": "March",
+      "Year": 2023,
+      "Numbers": [5, 9, 12, 19, 21, 22, 49],
+      "Bonus": 31
+    },
+    {
+      "Day": "Friday",
+      "Name": "31 March 2023",
+      "DayNumber": 31,
+      "Month": "March",
+      "Year": 2023,
+      "Numbers": [1, 3, 26, 28, 36, 47, 50],
+      "Bonus": 48
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "4 April 2023",
+      "DayNumber": 4,
+      "Month": "April",
+      "Year": 2023,
+      "Numbers": [6, 15, 29, 32, 36, 45, 48],
+      "Bonus": 39
+    },
+    {
+      "Day": "Friday",
+      "Name": "7 April 2023",
+      "DayNumber": 7,
+      "Month": "April",
+      "Year": 2023,
+      "Numbers": [15, 26, 34, 41, 44, 45, 46],
+      "Bonus": 11
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "11 April 2023",
+      "DayNumber": 11,
+      "Month": "April",
+      "Year": 2023,
+      "Numbers": [4, 5, 11, 12, 31, 43, 44],
+      "Bonus": 15
+    },
+    {
+      "Day": "Friday",
+      "Name": "14 April 2023",
+      "DayNumber": 14,
+      "Month": "April",
+      "Year": 2023,
+      "Numbers": [17, 25, 28, 30, 34, 46, 49],
+      "Bonus": 42
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "18 April 2023",
+      "DayNumber": 18,
+      "Month": "April",
+      "Year": 2023,
+      "Numbers": [5, 7, 16, 20, 26, 30, 36],
+      "Bonus": 44
+    },
+    {
+      "Day": "Friday",
+      "Name": "21 April 2023",
+      "DayNumber": 21,
+      "Month": "April",
+      "Year": 2023,
+      "Numbers": [7, 8, 18, 26, 33, 42, 46],
+      "Bonus": 39
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "25 April 2023",
+      "DayNumber": 25,
+      "Month": "April",
+      "Year": 2023,
+      "Numbers": [4, 19, 21, 33, 37, 38, 39],
+      "Bonus": 42
+    },
+    {
+      "Day": "Friday",
+      "Name": "28 April 2023",
+      "DayNumber": 28,
+      "Month": "April",
+      "Year": 2023,
+      "Numbers": [1, 2, 12, 15, 35, 39, 45],
+      "Bonus": 44
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "2 May 2023",
+      "DayNumber": 2,
+      "Month": "May",
+      "Year": 2023,
+      "Numbers": [2, 12, 22, 30, 32, 35, 36],
+      "Bonus": 1
+    },
+    {
+      "Day": "Friday",
+      "Name": "5 May 2023",
+      "DayNumber": 5,
+      "Month": "May",
+      "Year": 2023,
+      "Numbers": [8, 16, 22, 24, 25, 30, 32],
+      "Bonus": 11
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "9 May 2023",
+      "DayNumber": 9,
+      "Month": "May",
+      "Year": 2023,
+      "Numbers": [18, 19, 31, 33, 35, 40, 50],
+      "Bonus": 16
+    },
+    {
+      "Day": "Friday",
+      "Name": "12 May 2023",
+      "DayNumber": 12,
+      "Month": "May",
+      "Year": 2023,
+      "Numbers": [4, 5, 20, 26, 28, 29, 48],
+      "Bonus": 44
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "16 May 2023",
+      "DayNumber": 16,
+      "Month": "May",
+      "Year": 2023,
+      "Numbers": [11, 13, 19, 25, 28, 46, 49],
+      "Bonus": 24
+    },
+    {
+      "Day": "Friday",
+      "Name": "19 May 2023",
+      "DayNumber": 19,
+      "Month": "May",
+      "Year": 2023,
+      "Numbers": [12, 13, 35, 41, 42, 44, 47],
+      "Bonus": 32
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "23 May 2023",
+      "DayNumber": 23,
+      "Month": "May",
+      "Year": 2023,
+      "Numbers": [1, 7, 10, 18, 23, 24, 34],
+      "Bonus": 3
+    },
+    {
+      "Day": "Friday",
+      "Name": "26 May 2023",
+      "DayNumber": 26,
+      "Month": "May",
+      "Year": 2023,
+      "Numbers": [2, 7, 9, 12, 21, 30, 37],
+      "Bonus": 23
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "30 May 2023",
+      "DayNumber": 30,
+      "Month": "May",
+      "Year": 2023,
+      "Numbers": [13, 14, 18, 19, 25, 29, 38],
+      "Bonus": 36
+    },
+    {
+      "Day": "Friday",
+      "Name": "2 June 2023",
+      "DayNumber": 2,
+      "Month": "June",
+      "Year": 2023,
+      "Numbers": [1, 12, 16, 21, 29, 43, 49],
+      "Bonus": 8
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "6 June 2023",
+      "DayNumber": 6,
+      "Month": "June",
+      "Year": 2023,
+      "Numbers": [4, 7, 13, 16, 31, 32, 39],
+      "Bonus": 26
+    },
+    {
+      "Day": "Friday",
+      "Name": "9 June 2023",
+      "DayNumber": 9,
+      "Month": "June",
+      "Year": 2023,
+      "Numbers": [7, 10, 12, 31, 37, 42, 44],
+      "Bonus": 34
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "13 June 2023",
+      "DayNumber": 13,
+      "Month": "June",
+      "Year": 2023,
+      "Numbers": [1, 2, 8, 12, 24, 44, 45],
+      "Bonus": 26
+    },
+    {
+      "Day": "Friday",
+      "Name": "16 June 2023",
+      "DayNumber": 16,
+      "Month": "June",
+      "Year": 2023,
+      "Numbers": [11, 20, 30, 34, 41, 47, 49],
+      "Bonus": 16
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "20 June 2023",
+      "DayNumber": 20,
+      "Month": "June",
+      "Year": 2023,
+      "Numbers": [5, 10, 24, 30, 32, 43, 48],
+      "Bonus": 40
+    },
+    {
+      "Day": "Friday",
+      "Name": "23 June 2023",
+      "DayNumber": 23,
+      "Month": "June",
+      "Year": 2023,
+      "Numbers": [8, 19, 21, 29, 33, 40, 46],
+      "Bonus": 25
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "27 June 2023",
+      "DayNumber": 27,
+      "Month": "June",
+      "Year": 2023,
+      "Numbers": [1, 9, 25, 31, 34, 35, 38],
+      "Bonus": 36
+    },
+    {
+      "Day": "Friday",
+      "Name": "30 June 2023",
+      "DayNumber": 30,
+      "Month": "June",
+      "Year": 2023,
+      "Numbers": [1, 13, 19, 26, 35, 42, 49],
+      "Bonus": 37
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "4 July 2023",
+      "DayNumber": 4,
+      "Month": "July",
+      "Year": 2023,
+      "Numbers": [2, 9, 20, 21, 23, 32, 43],
+      "Bonus": 1
+    },
+    {
+      "Day": "Friday",
+      "Name": "7 July 2023",
+      "DayNumber": 7,
+      "Month": "July",
+      "Year": 2023,
+      "Numbers": [12, 13, 28, 32, 34, 35, 40],
+      "Bonus": 27
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "11 July 2023",
+      "DayNumber": 11,
+      "Month": "July",
+      "Year": 2023,
+      "Numbers": [5, 16, 23, 24, 31, 40, 48],
+      "Bonus": 3
+    },
+    {
+      "Day": "Friday",
+      "Name": "14 July 2023",
+      "DayNumber": 14,
+      "Month": "July",
+      "Year": 2023,
+      "Numbers": [3, 11, 23, 27, 39, 44, 48],
+      "Bonus": 17
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "18 July 2023",
+      "DayNumber": 18,
+      "Month": "July",
+      "Year": 2023,
+      "Numbers": [2, 4, 5, 15, 29, 40, 49],
+      "Bonus": 42
+    },
+    {
+      "Day": "Friday",
+      "Name": "21 July 2023",
+      "DayNumber": 21,
+      "Month": "July",
+      "Year": 2023,
+      "Numbers": [4, 8, 14, 25, 28, 40, 41],
+      "Bonus": 6
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "25 July 2023",
+      "DayNumber": 25,
+      "Month": "July",
+      "Year": 2023,
+      "Numbers": [15, 16, 17, 18, 43, 44, 48],
+      "Bonus": 50
+    },
+    {
+      "Day": "Friday",
+      "Name": "28 July 2023",
+      "DayNumber": 28,
+      "Month": "July",
+      "Year": 2023,
+      "Numbers": [4, 17, 26, 28, 29, 41, 48],
+      "Bonus": 16
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "1 August 2023",
+      "DayNumber": 1,
+      "Month": "August",
+      "Year": 2023,
+      "Numbers": [2, 13, 26, 28, 30, 43, 46],
+      "Bonus": 24
+    },
+    {
+      "Day": "Friday",
+      "Name": "4 August 2023",
+      "DayNumber": 4,
+      "Month": "August",
+      "Year": 2023,
+      "Numbers": [2, 11, 16, 21, 32, 44, 47],
+      "Bonus": 13
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "8 August 2023",
+      "DayNumber": 8,
+      "Month": "August",
+      "Year": 2023,
+      "Numbers": [7, 19, 22, 34, 44, 46, 49],
+      "Bonus": 26
+    },
+    {
+      "Day": "Friday",
+      "Name": "11 August 2023",
+      "DayNumber": 11,
+      "Month": "August",
+      "Year": 2023,
+      "Numbers": [7, 8, 23, 28, 29, 31, 37],
+      "Bonus": 43
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "15 August 2023",
+      "DayNumber": 15,
+      "Month": "August",
+      "Year": 2023,
+      "Numbers": [13, 15, 20, 29, 31, 48, 49],
+      "Bonus": 18
+    },
+    {
+      "Day": "Friday",
+      "Name": "18 August 2023",
+      "DayNumber": 18,
+      "Month": "August",
+      "Year": 2023,
+      "Numbers": [1, 7, 29, 36, 40, 42, 50],
+      "Bonus": 35
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "22 August 2023",
+      "DayNumber": 22,
+      "Month": "August",
+      "Year": 2023,
+      "Numbers": [2, 7, 12, 19, 38, 42, 50],
+      "Bonus": 39
+    },
+    {
+      "Day": "Friday",
+      "Name": "25 August 2023",
+      "DayNumber": 25,
+      "Month": "August",
+      "Year": 2023,
+      "Numbers": [7, 12, 17, 18, 37, 38, 45],
+      "Bonus": 40
+    },
+    {
+      "Day": "Tuesday",
+      "Name": "29 August 2023",
+      "DayNumber": 29,
+      "Month": "August",
+      "Year": 2023,
+      "Numbers": [13, 17, 19, 22, 26, 28, 40],
+      "Bonus": 20
+    },
+    {
+      "Day": "Friday",
+      "Name": "1 September 2023",
+      "DayNumber": 1,
+      "Month": "September",
+      "Year": 2023,
+      "Numbers": [1, 7, 15, 30, 36, 37, 46],
+      "Bonus": 14
+    }
+]
